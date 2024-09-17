@@ -12,6 +12,5 @@ Some basic concepts:
 - rebase
 - revert
 
-There are a lot of other commands to cover. We will get to them!
 
 .
