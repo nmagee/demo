@@ -1,4 +1,4 @@
-# demo site
+# demo
 
 Some basic concepts:
 
