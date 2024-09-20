@@ -12,5 +12,3 @@ Some basic concepts:
 - rebase
 - revert
 
-
-.
