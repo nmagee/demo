@@ -1,4 +1,4 @@
-# demo things for the demo
+# demo things
 
 Some basic concepts:
 
