@@ -11,4 +11,4 @@ Some basic concepts:
 - log
 - rebase
 - revert
-
+- cherry-pick
