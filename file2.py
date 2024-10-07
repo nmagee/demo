@@ -1,6 +1,6 @@
 import json
 
-# a simple json array
+# here is a simple json array
 MYJSON = """
 {
     "firstName": "Jane",
